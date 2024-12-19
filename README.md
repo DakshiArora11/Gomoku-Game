@@ -29,3 +29,5 @@ The objective is to connect 5 dots in a row (horizontally, vertically, or diagon
   - `pyttsx3`
 
 <img width="404" alt="{F2E65105-0AD8-462E-8955-0D14190E12C2}" src="https://github.com/user-attachments/assets/f6236828-31a7-4492-b8a0-e8349bb07852" />
+<img width="677" alt="{F9CF5AE5-B8A7-422A-9661-F539A6B54E92}" src="https://github.com/user-attachments/assets/a952d353-fbe9-4609-8949-0f22ee0c2f52" />
+<img width="624" alt="{07D18721-3509-4E93-B8B7-ECB766D5DE81}" src="https://github.com/user-attachments/assets/c880e855-3d4d-4157-a1a8-889cbc3bd368" />
