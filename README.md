@@ -28,4 +28,4 @@ The objective is to connect 5 dots in a row (horizontally, vertically, or diagon
   - `numpy`
   - `pyttsx3`
 
-
+<img width="404" alt="{F2E65105-0AD8-462E-8955-0D14190E12C2}" src="https://github.com/user-attachments/assets/f6236828-31a7-4492-b8a0-e8349bb07852" />
