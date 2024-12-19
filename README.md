@@ -18,7 +18,7 @@ The objective is to connect 5 dots in a row (horizontally, vertically, or diagon
   - **Easy**: Basic AI with random moves and minimal strategy.
   - **Medium**: Strategic AI with scoring-based decisions.
   - **Hard**: Advanced AI using the Minimax algorithm with alpha-beta pruning.
-    <img width="404" alt="{F2E65105-0AD8-462E-8955-0D14190E12C2}" src="https://github.com/user-attachments/assets/f6236828-31a7-4492-b8a0-e8349bb07852" />
+ <img width="404" alt="{F2E65105-0AD8-462E-8955-0D14190E12C2}" src="https://github.com/user-attachments/assets/f6236828-31a7-4492-b8a0-e8349bb07852" />
 
 - **Hints and Suggestions**: Provides dynamic tips and alerts to help the player.
 - **Text-to-Speech**: Hints and game suggestions are spoken audibly using TTS.
